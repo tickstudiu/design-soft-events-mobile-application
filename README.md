@@ -3,8 +3,5 @@ The prototype of making the application is made as an example of the application
 
 created by Wanchalerm Suksawat
 
-## Built For
-mobile application
-
 ## Created By
 adobe XD
