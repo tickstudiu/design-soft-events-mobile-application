@@ -7,7 +7,7 @@ in the future, which is used in the internship of the creator.
 
 * [Adobe XD](https://www.adobe.com/sea/products/xd.html) - Program used in work
 
-## Fonts Style
+## Fonts
 
 * Tw Cen MT
 * Segoe UI
