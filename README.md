@@ -1,7 +1,7 @@
 # Design Soft Events Mobile Application
 The prototype of making the application is made as an example of the application that will be made in the future, which is used in the internship of the creator.
 
-created by Wanchalerm Suksawat
+created by Wanchalerm Suksawat.
 
-## Created By
-adobe XD
+## Built With
+* [Adobe XD](https://www.adobe.com/sea/products/xd.html) - Program used in work
