@@ -9,7 +9,7 @@ in the future, which is used in the internship of the creator.
 
 ## Colors
 
-* ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+* ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) #f03c15
 
 ## Authors
 
