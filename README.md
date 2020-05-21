@@ -1,4 +1,4 @@
-# design-soft-events-mobile-application
+# Design Soft Events Mobile Application
 created by Wanchalerm Suksawat
 
 ## Built For
