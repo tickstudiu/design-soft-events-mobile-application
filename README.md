@@ -9,7 +9,14 @@ in the future, which is used in the internship of the creator.
 
 ## Colors
 
-* ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) #f03c15
+* ![#F8F8F8](https://via.placeholder.com/15/F8F8F8/000000?text=+) #F8F8F8
+* ![#EAEAEA](https://via.placeholder.com/15/EAEAEA/000000?text=+) #EAEAEA
+* ![#757575](https://via.placeholder.com/15/757575/000000?text=+) #757575
+* ![#362626](https://via.placeholder.com/15/362626/000000?text=+) #362626
+* ![#18E7D9](https://via.placeholder.com/15/18E7D9/000000?text=+) #18E7D9
+* ![#5C7DE9](https://via.placeholder.com/15/5C7DE9/000000?text=+) #5C7DE9
+* ![#FCAE47](https://via.placeholder.com/15/FCAE47/000000?text=+) #FCAE47
+* ![#E65200](https://via.placeholder.com/15/E65200/000000?text=+) #E65200
 
 ## Authors
 
